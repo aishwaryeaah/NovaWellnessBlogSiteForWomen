@@ -43,7 +43,7 @@ const Createpost = () => {
     'list', 'bullet', 'indent', 'link', 'image' ]
 
 
-  const POST_CATEGORIES = ["Uncategorised","Sexual Health", "Emotional Intelligence & Resilience", "Menstrual Health", "Cancer", "Wellness & Optimal Living", "Mental Health"]
+  const POST_CATEGORIES = ["A","B", "C", "D", "E", "F", "Uncategorized"]
 
 
 
